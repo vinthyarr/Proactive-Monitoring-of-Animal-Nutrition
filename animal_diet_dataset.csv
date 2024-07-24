@@ -1,0 +1,64 @@
+Animal,Height (cm),Weight (kg),Color,Lifespan (years),Diet,Habitat,Conservation Status,Family,Gestation Period (days),Feeding Behavior,Nutritional Content
+Elephant,270-310,2700-6000,Grey,60-70,Herbivore,"Savannah, Forest",Vulnerable,Elephantidae,640-660,Herbivore,"High in fiber, low in fat"
+Lion,80-110,120-250,Tan,Oct-14,Carnivore,"Grasslands, Savannas",Vulnerable,Felidae,98-105,Carnivore,High in protein
+Wild Dog,75-80,18-36,Multicolored,10-Dec,Carnivore,Savannahs,Endangered,Canidae,70,Carnivore,High in protein
+Bison,152-186,318-1000,Brown,15-20,Herbivore,"Grasslands, Plains",Near Threatened,Bovidae,270-290,Herbivore,"High in protein, iron, and zinc"
+Anteater,52-91,22-41,"Brown, White",15-20,Insectivore,"Grasslands, Forests",Least Concern,Myrmecophagidae,190-210,Insectivore,High in protein
+Horse,140-160,380-1000,Various,25-30,Herbivore,"Middle East, North Africa",Not Applicable,Equidae,330-342,Herbivore,"High in fiber, protein, and iron"
+Fox,25-30,2.5-9,White,03-Jun,Omnivore,Tundra,Least Concern,Canidae,52-60,Omnivore,Varied
+Bengal Fox,35-40,2.5-4,Yellowish-gray,06-Aug,Omnivore,Grasslands,Least Concern,Canidae,50-60,Omnivore,Varied
+Bengal Tiger,90-110,220-260,"Orange, Black",Oct-15,Carnivore,"Grasslands, Mangroves",Endangered,Felidae,104-106,Carnivore,High in protein
+Black Rhinoceros,132-180,800-1400,"Gray, Black",35-50,Herbivore,"Grasslands, Forests",Critically Endangered,Rhinocerotidae,450-480,Herbivore,"High in fiber, low in fat"
+Bornean Orangutan,96-150,30-82,Reddish-brown,35-45,Omnivore,Rainforests,Critically Endangered,Hominidae,230-270,Omnivore,Varied
+Brown Bear,70-120,70-780,Brown,20-30,Omnivore,"Forests, Mountains",Least Concern,Ursidae,180-250,Omnivore,Varied
+Burmese Python,Up to 460,Up to 90,"Brown, Black",20-25,Carnivore,"Grasslands, Forests",Least Concern,Pythonidae,88-100,Carnivore,High in protein
+Cheetah,70-90,20-72,Tan with Black Spots,10-Dec,Carnivore,"Grasslands, Savannas",Vulnerable,Felidae,90-98,Carnivore,High in protein
+Chimpanzee,Up to 160,26-70,Black,40-50,Omnivore,"Rainforests, Grasslands",Endangered,Hominidae,230-240,Omnivore,Varied
+Dalmatian Dog,50-61,23-32,"White, Black",Oct-13,Omnivore,Worldwide,Not Applicable,Canidae,63,Omnivore,Varied
+Dhole,50-55,13-20,"Red, Brown",Oct-15,Carnivore,"Forests, Grasslands",Endangered,Canidae,60-63,Carnivore,High in protein
+Dingo,48-58,13-20,"Tan, Brown",Oct-15,Carnivore,"Grasslands, Forests",Least Concern,Canidae,63,Carnivore,High in protein
+Eastern Gorilla,140-188,73-204,Black,40-50,Herbivore,Rainforests,Endangered,Hominidae,255-270,Herbivore,"High in fiber, vitamins, minerals"
+Echidna,30-45,2.5-6.5,"Brown, Tan",15-20,Insectivore,"Forests, Grasslands",Least Concern,Tachyglossidae,22-28,Insectivore,High in protein
+Emperor Penguin,100,22-45,"Black, White",15-20,Carnivore,Antarctic,Near Threatened,Spheniscidae,62-66,Carnivore,High in protein
+Emperor Tamarin,23-26,0.3-0.4,"Black, White",Unknown,Omnivore,Rainforests,Least Concern,Callitrichidae,140-145,Omnivore,Varied
+European Hedgehog,14-30,0.6-1.2,"Brown, Spiny",02-May,Omnivore,"Gardens, Grasslands",Least Concern,Erinaceidae,35,Omnivore,Varied
+Fennec Fox,20-40,0.8-1.6,Cream,Unknown,Omnivore,Sahara Desert,Least Concern,Canidae,50-52,Omnivore,Varied
+Flying Fox,Up to 40,Up to 1.1,"Brown, Gray",15-23,Herbivore,Forests,Least Concern,Pteropodidae,140-150,Herbivore,"High in fiber, vitamins"
+Fossa,70-90,Up to 5,Brown,15-20,Carnivore,"Rainforests, Madagascar",Vulnerable,Eupleridae,90,Carnivore,High in protein
+Galápagos Tortoise,Up to 183,Up to 417,"Brown, Grey",100-150,Herbivore,Galápagos Islands,Vulnerable,Testudinidae,135,Herbivore,"High in fiber, vitamins"
+King Cobra,Up to 550,Up to 9,Olive-green,20-30,Carnivore,"Grasslands, Forests",Vulnerable,Elapidae,90-113,Carnivore,High in protein
+Lemur,30-65,0.6-4.5,Varies,15-25,Herbivore,Forests,Critically Endangered,Lemuridae,120-135,Herbivore,Varied
+Lion-tailed Macaque,45-60,2.5-10,Black,20-30,Omnivore,"Western Ghats, India",Endangered,Cercopithecidae,150-170,"Omnivore, Herbivore",Varied
+Malayan Krait,Up to 150,Up to 2.2,"Black, Yellow",Oct-15,Carnivore,"Forests, Grasslands",Least Concern,Elapidae,180-270,Carnivore,High in protein
+Mandrill,Up to 75,Up to 55,"Brown, Green",20-40,Omnivore,Rainforests,Vulnerable,Cercopithecidae,175-190,Omnivore,Varied
+Maned Wolf,67-107,20-25,Reddish-Brown,06-Aug,Omnivore,"Grasslands, Forests",Near Threatened,Canidae,65-70,Omnivore,Varied
+Markhor,Up to 115,Up to 110,"Brown, Gray",Oct-13,Herbivore,Mountains,Near Threatened,Bovidae,135-170,Herbivore,"High in fiber, protein"
+Meerkat,25-35,0.6-1,"Brown, Tan",Dec-14,Omnivore,Arid regions,Least Concern,Herpestidae,70-73,"Omnivore, Insectivore",Varied
+Mountain Gorilla,120-200,70-200,"Black, Brown",35-40,Herbivore,"Rainforests, Mountains",Endangered,Hominidae,255-270,Herbivore,"High in fiber, vitamins"
+Naked Mole Rat,Up to 9,Up to 80,"Pink, Wrinkled",Up to 32,Herbivore,Underground Tunnels,Least Concern,Heterocephalidae,70,"Herbivore, Insectivore",High in fiber
+Slow Loris,20-38,0.3-1.6,Yellowish-Brown,20-24,Omnivore,Forests,Vulnerable,Lorisidae,23-26,Omnivore,Varied
+Snow Leopard,50-70,22-75,"Grayish-yellow, Black",10,Carnivore,"Mountains, Steppes",Vulnerable,Felidae,90-100,Carnivore,High in protein
+Spectacled Bear,120-200,35-77,"Black, Tan",20-25,Omnivore,Forests,Vulnerable,Ursidae,200-294,Omnivore,Varied
+Spider Monkey,35-64,06-Sep,"Brown, Black",25-36,Omnivore,Rainforests,Vulnerable,Atelidae,110-160,Omnivore,Varied
+Spotted Hyena,70-92,44-64,Yellowish-brown,90-110,Carnivore,"Grasslands, Savannahs",Least Concern,Hyaenidae,90-110,"Carnivore, Scavenger",Varied
+Squirrel Monkey,25-35,0.5-1,"Yellowish-Orange, Black",15-20,Omnivore,Rainforests,Least Concern,Cebidae,15-20,Omnivore,Varied
+Star-Nosed Mole,Up to 16,Up to 0.06,"Black, Pink",16-22,Insectivore,"Wetlands, Forests",Least Concern,Talpidae,16-22,Insectivore,High in protein
+Sumatran Orangutan,66-100,23-56,Reddish-Brown,30-50,Omnivore,Rainforests,Critically Endangered,Hominidae,90-100,Omnivore,Varied
+Sumatran Rhino,100-145,750-950,Reddish-Brown,430-640,Herbivore,Rainforests,Critically Endangered,Rhinocerotidae,430-640,Herbivore,High in fiber
+Sumatran Rhinoceros,112-145,500-950,Brown,425-475,Herbivore,Rainforests,Critically Endangered,Rhinocerotidae,425-475,Herbivore,High in fiber
+Sumatran Tiger,70-87,47-121,"Orange, Black Stripes",140-230,Carnivore,Rainforests,Critically Endangered,Felidae,140-230,Carnivore,High in protein
+Sun Bear,120-150,27-80,Black,25-30,Omnivore,Tropical Forests,Vulnerable,Ursidae,90-150,Omnivore,Varied
+Tapir,70-120,150-400,"Brown, Black",390-395,Herbivore,"Rainforests, Grasslands",Vulnerable,Tapiridae,390-395,Herbivore,High in fiber
+Tarsier,Up to 16,Up to 0.2,"Gray, Brown",05-Jul,Insectivore,Rainforests,Vulnerable,Tarsiidae,180-210,Insectivore,High in protein
+Tasmanian Devil,30-76,14,"Black, White",21-28,Carnivore,"Forests, Grasslands",Endangered,Dasyuridae,21-28,"Carnivore, Scavenger",High in protein
+Tasmanian Tiger,100-130,20-30,Yellow-brown,121-128,Carnivore,Australia,Extinct,Thylacinidae,121-128,Carnivore,High in protein
+Three-Toed Sloth,46-58,Up to 8,"Brown, Gray",30-40,Herbivore,Rainforests,Least Concern,Bradypodidae,30-40,Herbivore,High in fiber
+Giraffe,400-600,800-1600,"Brown, Yellow",20-25,Herbivore,"Savannas, Grasslands",Vulnerable,Giraffidae,400-460,Herbivore,High in fiber
+Cow,150,300,Brown,20,Herbivore,Grasslands,Least Concern,Bovidae,280,Grazing,"High in protein, fiber, and minerals"
+Bull,170,400,Black,18,Herbivore,Meadows,Near Threatened,Bovidae,270,Grazing,Rich in calcium and vitamins
+Buffalo,160,350,White,22,Herbivore,Pastures,Vulnerable,Bovidae,290,Grazing,High in iron and antioxidants
+Yak,155,320,Spotted,15,Herbivore,Savannas,Endangered,Bovidae,300,Grazing,Contains omega-3 fatty acids
+Banteng,180,450,Red,25,Herbivore,Woodlands,Critically Endangered,Bovidae,260,Grazing,Rich source of vitamins and minerals
+Wildebeest,145,280,Tan,17,Herbivore,Plains,Extinct,Bovidae,310,Grazing,High in essential amino acids
+Zebu,140,260,Gray,22,Herbivore,Farmlands,Vulnerable,Bovidae,275,Grazing,High in omega-3 fatty acids
+Highland Cattle,152,320,Ginger,18,Herbivore,Highlands,Least Concern,Bovidae,280,Grazing,High in protein and zinc
